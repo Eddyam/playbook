@@ -6,6 +6,6 @@ Proyectos desarrollados en la semana 3:
 | ------------- |:-------------:| -----:|
 |`fizzbuzz`|1|[Link al repo](https://github.com/Eddyam/fizzbuzz)|
 |`PR`|2|[Link al repo](https://github.com/Eddyam/fizzbuzz-Contribucion)|
-|`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/Eddyam/)|
+|`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/Eddyam/CodeChallenge-VisualThinkingAPI)|
 |`Trello`|6|[Link al repo](https://github.com/Eddyam/)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/Eddyam/)|
